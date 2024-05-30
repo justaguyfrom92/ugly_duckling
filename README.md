@@ -35,6 +35,14 @@ if(!$payment->valid && $payment->hasErrors())
   return $payment->errors();
 }
 
+have a log json file indicator for showing status logs in browser and being able to view them properly
+
+
+
+mandrill for email system
+use backup system??
+
+
 
 
 
