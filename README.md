@@ -43,6 +43,7 @@ mandrill for email system
 use backup system??
 
 
-
+https://www.servermonkey.com/default/storage/dell/dell-powerstore.html
+https://www.servermonkey.com/default/parts-and-upgrades/processors.html
 
 
