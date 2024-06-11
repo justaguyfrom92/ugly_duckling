@@ -1,5 +1,21 @@
 # server_monkey
 
+Server - monekybundle
+isConfigurable() - flag
+getConfigs()?
+Config Sections
+
+product Section
+
+Item - part
+isConfigurable() - default - 0
+
+Event - event 
+isConfigurable() - default - 0
+
+
+
+
 a company can have multiple credits and on those credits there are contacts that work at the company
 
 
