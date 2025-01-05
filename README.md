@@ -1,6 +1,6 @@
-# server_monkey
+# ugly duckling
 
-Server - monekybundle
+Server - bundle
 isConfigurable() - flag
 getConfigs()?
 Config Sections
@@ -30,11 +30,11 @@ fraud system (idk the name)
 Taxes change from various locations, it's not set in stone thoroughout a large area.
 Api to Connect to Tax system to populate our db in the morning.
 
-30 in a full day - May 28
+30 in a full day - May 28 (2009)?
 6 orders in a hour is a lot
 
-280k - bank transfer (2022)
-416k - bank transfer
+280k - bank transfer (2011)??
+416k - bank transfer (2011)??
 
 just shy of 65,000 for credit or debit
 paypal wont accept orders over 65k 
@@ -59,8 +59,8 @@ mandrill for email system
 use backup system??
 
 
-https://www.servermonkey.com/default/storage/dell/dell-powerstore.html
-https://www.servermonkey.com/default/parts-and-upgrades/processors.html
+default/storage/dell/dell-powerstore.html
+default/parts-and-upgrades/processors.html
 
 
 https://prium.github.io/phoenix/v1.13.0/apps/e-commerce/landing/product-details.html
